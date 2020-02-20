@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582183696 source:c:\users\admin1\documents\c_programs\pizaa\main.cpp
+	<iostream>
+	<vector>
+
